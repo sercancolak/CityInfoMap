@@ -1,0 +1,12 @@
+.modal {
+    width: 500px;
+  }
+@media screen and (max-width: 600px) {
+  .modal {
+  width: 75%;
+  }
+}
+
+.full-width{
+    width: 100%;
+}
